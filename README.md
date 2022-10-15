@@ -1,0 +1,1 @@
+# EMA_Reversal_strategy
